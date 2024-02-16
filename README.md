@@ -1,20 +1,17 @@
-# Tourguide
+# What’s in my list
 
-\* 이 repo는 위니브 회사 repo로 이관되어 더이상 업데이트 되지 않습니다. 업데이트 하지 않도록 주의해주세요.
+* 이 repo는 위니브 회사 repo로 이관되어 더이상 업데이트 되지 않습니다. 업데이트 하지 않도록 주의해주세요.
 
 # github_blog
 깃헙 정적 페이지 블로그 프로젝트
 
 * 목표
-    * github에서 fork로 바로 blog를 만들 수 있는 정적 페이지 제공 프로젝트
-    * 학생에게 프로젝트 양식 샘플 제공(https://github.com/weniv/project_sample_repo repo와 추후 연결)
-    * 회사 주피터 노트북 등 지적 재산을 누적하기 위한 블로그 프로젝트
-
-* 사용방법
-    1. github pages를 활성화 해주세요.
-    2. 글을 작성하고 싶으면 `blog`에 `[date]_[title]_[category]_[thumnail]_[description].md` 형식(`md`, `ipynb` 호환)으로 글을 작성해주세요. 섬네일을 비우고 싶다면 `[]`와 같이 빈 값으로 주세요.
-    3. 추가 메뉴를 만들고 싶으면 `menu` 폴더에 `사용하고싶은 메뉴 이름.html` 형식으로 저장하면 메뉴로 생성됩니다.
-
+    * What’s in my list의 목표는 3가지 주제로 list를 간단하게 정리해서 사용자의 편의성을 제공하도록 한다.
+      1. 건강 list <나를 위한>
+      2. 스케줄 list 
+      3. 여행 & 출장 list <여행 일정의 list, 맛집, 장바구니::가져가야될것>
+     
+         
 * 서비스 URL 정보
     * 실행 URL: https://paullabkorea.github.io/github_blog/
     * blog github repo: https://github.com/paullabkorea/github_blog
